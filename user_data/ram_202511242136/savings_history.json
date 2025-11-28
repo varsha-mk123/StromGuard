@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-11-24",
+    "amount": 37.5,
+    "source": "auto_save",
+    "income_ref": 750,
+    "recorded_at": "2025-11-24T21:37:18.388774"
+  },
+  {
+    "date": "2025-11-24",
+    "amount": 37.5,
+    "source": "auto_save",
+    "income_ref": 750,
+    "recorded_at": "2025-11-24T21:37:18.689819"
+  },
+  {
+    "date": "2025-11-24",
+    "amount": 37.5,
+    "source": "auto_save",
+    "income_ref": 750,
+    "recorded_at": "2025-11-24T21:37:25.732734"
+  },
+  {
+    "date": "2025-11-24",
+    "amount": 37.5,
+    "source": "auto_save",
+    "income_ref": 750,
+    "recorded_at": "2025-11-24T21:37:28.602891"
+  },
+  {
+    "date": "2025-11-24",
+    "amount": 37.5,
+    "source": "auto_save",
+    "income_ref": 750,
+    "recorded_at": "2025-11-24T21:37:30.545760"
+  },
+  {
+    "date": "2025-11-25",
+    "amount": 25.0,
+    "source": "auto_save",
+    "income_ref": 500,
+    "recorded_at": "2025-11-25T12:51:34.027883"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Arun",
+  "age": 27,
+  "city": "Chennai",
+  "platform": "Swiggy + Other",
+  "platforms": [
+    "Swiggy",
+    "Other"
+  ],
+  "phone": "",
+  "goals": [
+    "I want to invest in IPO's",
+    "Buy an Laptop"
+  ],
+  "savings_rate": 0.09,
+  "language": "hinglish",
+  "user_id": "arun_202511212322",
+  "created_at": "2025-11-21T23:22:05.204298",
+  "last_active": "2025-11-21T23:25:56.490598"
+}

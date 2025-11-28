@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-11-26",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Lunch at restaurant",
+    "recorded_at": "2025-11-26T22:57:12.247173"
+  },
+  {
+    "date": "2025-11-26",
+    "amount": 600.0,
+    "category": "Income",
+    "description": "Daily delivery earnings",
+    "recorded_at": "2025-11-26T22:57:18.605572"
+  },
+  {
+    "date": "2025-11-26",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Lunch at restaurant",
+    "recorded_at": "2025-11-26T23:01:14.318628"
+  },
+  {
+    "date": "2025-11-26",
+    "amount": 600.0,
+    "category": "Income",
+    "description": "Delivery earnings",
+    "recorded_at": "2025-11-26T23:01:20.054938"
+  },
+  {
+    "date": "2025-11-26",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Lunch at restaurant",
+    "recorded_at": "2025-11-26T23:17:53.936729"
+  },
+  {
+    "date": "2025-11-28",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Lunch at restaurant",
+    "recorded_at": "2025-11-28T22:00:24.347268"
+  },
+  {
+    "date": "2025-11-28",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Lunch at restaurant",
+    "recorded_at": "2025-11-28T22:04:28.301019"
+  }
+]

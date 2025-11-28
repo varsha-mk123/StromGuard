@@ -1,0 +1,422 @@
+[
+  {
+    "date": "2025-10-22",
+    "amount": 138,
+    "category": "food",
+    "description": "Snacks",
+    "recorded_at": "2025-11-21T23:22:08.100667"
+  },
+  {
+    "date": "2025-10-22",
+    "amount": 64,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.120994"
+  },
+  {
+    "date": "2025-10-23",
+    "amount": 146,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.144687"
+  },
+  {
+    "date": "2025-10-23",
+    "amount": 112,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.169488"
+  },
+  {
+    "date": "2025-10-24",
+    "amount": 161,
+    "category": "food",
+    "description": "Tea/Coffee",
+    "recorded_at": "2025-11-21T23:22:08.192685"
+  },
+  {
+    "date": "2025-10-24",
+    "amount": 98,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.219031"
+  },
+  {
+    "date": "2025-10-25",
+    "amount": 143,
+    "category": "food",
+    "description": "Tea/Coffee",
+    "recorded_at": "2025-11-21T23:22:08.238108"
+  },
+  {
+    "date": "2025-10-25",
+    "amount": 106,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.263972"
+  },
+  {
+    "date": "2025-10-25",
+    "amount": 299,
+    "category": "phone",
+    "description": "Mobile recharge",
+    "recorded_at": "2025-11-21T23:22:08.289650"
+  },
+  {
+    "date": "2025-10-25",
+    "amount": 298,
+    "category": "entertainment",
+    "description": "Restaurant",
+    "recorded_at": "2025-11-21T23:22:08.312747"
+  },
+  {
+    "date": "2025-10-26",
+    "amount": 128,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.340362"
+  },
+  {
+    "date": "2025-10-27",
+    "amount": 101,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.365854"
+  },
+  {
+    "date": "2025-10-27",
+    "amount": 143,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.393355"
+  },
+  {
+    "date": "2025-10-28",
+    "amount": 134,
+    "category": "food",
+    "description": "Breakfast",
+    "recorded_at": "2025-11-21T23:22:08.424129"
+  },
+  {
+    "date": "2025-10-28",
+    "amount": 74,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.456691"
+  },
+  {
+    "date": "2025-10-29",
+    "amount": 97,
+    "category": "food",
+    "description": "Breakfast",
+    "recorded_at": "2025-11-21T23:22:08.489145"
+  },
+  {
+    "date": "2025-10-29",
+    "amount": 138,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.516647"
+  },
+  {
+    "date": "2025-10-30",
+    "amount": 116,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.574753"
+  },
+  {
+    "date": "2025-10-30",
+    "amount": 146,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.604531"
+  },
+  {
+    "date": "2025-10-31",
+    "amount": 167,
+    "category": "food",
+    "description": "Snacks",
+    "recorded_at": "2025-11-21T23:22:08.639082"
+  },
+  {
+    "date": "2025-10-31",
+    "amount": 85,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.677207"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 118,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.706139"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 90,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.736799"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 155,
+    "category": "entertainment",
+    "description": "Friends outing",
+    "recorded_at": "2025-11-21T23:22:08.769441"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 4893,
+    "category": "family_support",
+    "description": "Money sent to family",
+    "recorded_at": "2025-11-21T23:22:08.804687"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 6000,
+    "category": "rent",
+    "description": "Monthly rent",
+    "recorded_at": "2025-11-21T23:22:08.840626"
+  },
+  {
+    "date": "2025-11-03",
+    "amount": 169,
+    "category": "food",
+    "description": "Snacks",
+    "recorded_at": "2025-11-21T23:22:08.874552"
+  },
+  {
+    "date": "2025-11-03",
+    "amount": 65,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.908332"
+  },
+  {
+    "date": "2025-11-04",
+    "amount": 173,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:08.938965"
+  },
+  {
+    "date": "2025-11-04",
+    "amount": 93,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:08.971081"
+  },
+  {
+    "date": "2025-11-04",
+    "amount": 499,
+    "category": "phone",
+    "description": "Mobile recharge",
+    "recorded_at": "2025-11-21T23:22:09.002293"
+  },
+  {
+    "date": "2025-11-05",
+    "amount": 143,
+    "category": "food",
+    "description": "Breakfast",
+    "recorded_at": "2025-11-21T23:22:09.037872"
+  },
+  {
+    "date": "2025-11-05",
+    "amount": 96,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.072015"
+  },
+  {
+    "date": "2025-11-06",
+    "amount": 94,
+    "category": "food",
+    "description": "Breakfast",
+    "recorded_at": "2025-11-21T23:22:09.122128"
+  },
+  {
+    "date": "2025-11-06",
+    "amount": 84,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.154362"
+  },
+  {
+    "date": "2025-11-07",
+    "amount": 141,
+    "category": "food",
+    "description": "Dinner",
+    "recorded_at": "2025-11-21T23:22:09.187266"
+  },
+  {
+    "date": "2025-11-07",
+    "amount": 129,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.218413"
+  },
+  {
+    "date": "2025-11-08",
+    "amount": 99,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.253347"
+  },
+  {
+    "date": "2025-11-09",
+    "amount": 167,
+    "category": "food",
+    "description": "Breakfast",
+    "recorded_at": "2025-11-21T23:22:09.284703"
+  },
+  {
+    "date": "2025-11-10",
+    "amount": 121,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:09.320682"
+  },
+  {
+    "date": "2025-11-10",
+    "amount": 63,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.358567"
+  },
+  {
+    "date": "2025-11-11",
+    "amount": 139,
+    "category": "food",
+    "description": "Dinner",
+    "recorded_at": "2025-11-21T23:22:09.394574"
+  },
+  {
+    "date": "2025-11-11",
+    "amount": 106,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.426961"
+  },
+  {
+    "date": "2025-11-12",
+    "amount": 129,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:09.457471"
+  },
+  {
+    "date": "2025-11-12",
+    "amount": 80,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.489818"
+  },
+  {
+    "date": "2025-11-13",
+    "amount": 113,
+    "category": "food",
+    "description": "Tea/Coffee",
+    "recorded_at": "2025-11-21T23:22:09.521873"
+  },
+  {
+    "date": "2025-11-13",
+    "amount": 68,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.554872"
+  },
+  {
+    "date": "2025-11-14",
+    "amount": 65,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.590931"
+  },
+  {
+    "date": "2025-11-14",
+    "amount": 499,
+    "category": "phone",
+    "description": "Mobile recharge",
+    "recorded_at": "2025-11-21T23:22:09.619448"
+  },
+  {
+    "date": "2025-11-15",
+    "amount": 119,
+    "category": "food",
+    "description": "Tea/Coffee",
+    "recorded_at": "2025-11-21T23:22:09.658956"
+  },
+  {
+    "date": "2025-11-15",
+    "amount": 71,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.697802"
+  },
+  {
+    "date": "2025-11-16",
+    "amount": 124,
+    "category": "food",
+    "description": "Lunch",
+    "recorded_at": "2025-11-21T23:22:09.725372"
+  },
+  {
+    "date": "2025-11-16",
+    "amount": 404,
+    "category": "entertainment",
+    "description": "Friends outing",
+    "recorded_at": "2025-11-21T23:22:09.761929"
+  },
+  {
+    "date": "2025-11-17",
+    "amount": 179,
+    "category": "food",
+    "description": "Dinner",
+    "recorded_at": "2025-11-21T23:22:09.795915"
+  },
+  {
+    "date": "2025-11-17",
+    "amount": 107,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.826569"
+  },
+  {
+    "date": "2025-11-18",
+    "amount": 149,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.859422"
+  },
+  {
+    "date": "2025-11-19",
+    "amount": 82,
+    "category": "food",
+    "description": "Dinner",
+    "recorded_at": "2025-11-21T23:22:09.893317"
+  },
+  {
+    "date": "2025-11-19",
+    "amount": 81,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.925280"
+  },
+  {
+    "date": "2025-11-20",
+    "amount": 141,
+    "category": "food",
+    "description": "Snacks",
+    "recorded_at": "2025-11-21T23:22:09.957300"
+  },
+  {
+    "date": "2025-11-20",
+    "amount": 92,
+    "category": "fuel",
+    "description": "Petrol/Diesel",
+    "recorded_at": "2025-11-21T23:22:09.989089"
+  }
+]

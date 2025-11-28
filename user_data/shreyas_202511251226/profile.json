@@ -1,0 +1,20 @@
+{
+  "name": "Shreyas",
+  "age": 22,
+  "city": "Hyderabad",
+  "platform": "Swiggy + Rapido + Dunzo",
+  "platforms": [
+    "Swiggy",
+    "Rapido",
+    "Dunzo"
+  ],
+  "phone": "",
+  "goals": [
+    "Build emergency fund"
+  ],
+  "savings_rate": 0.07,
+  "language": "hinglish",
+  "user_id": "shreyas_202511251226",
+  "created_at": "2025-11-25T12:26:16.653453",
+  "last_active": "2025-11-25T12:26:16.653466"
+}

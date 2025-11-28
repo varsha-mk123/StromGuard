@@ -1,0 +1,12 @@
+{
+  "user_id": "test_user_enhanced",
+  "name": "Rajesh",
+  "city": "Bangalore",
+  "platform": "Swiggy + Zomato",
+  "language": "hinglish",
+  "goals": [
+    "Save ₹20,000 emergency fund"
+  ],
+  "created_at": "2025-11-26T18:43:31.608325",
+  "last_active": "2025-11-26T18:43:31.608329"
+}
